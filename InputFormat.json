@@ -1,0 +1,29 @@
+{
+    "httpMethod": "PUT/POST/GET/DELETE",
+    "TblName": "DynamoDB Table Name",
+    "body": {
+      "phonenumber": {
+        "S": "1122334455"
+      }
+    },
+    "UE": "Update Expression Required. Check Documentation",
+    "EAV": {
+      "Update Variable": {
+        "Variable Type": "Variable Value"
+      }
+    },
+    "body2": {
+      "Variable1": {
+        "Variable Type": "Variable Value"
+      },
+      "Variable2": {
+        "Variable Type": "Variable Value"
+      },
+      "Variable3": {
+        "Variable Type": "Variable Value"
+      },
+      "Variable4": {
+        "Variable Type": "Variable Value"
+      }
+    }
+  }
